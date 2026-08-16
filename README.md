@@ -8,10 +8,7 @@ A static, pixel-inspired recreation of the YouTube homepage, built from scratch 
 
 ## Demo
 
-<video width="100%" controls>
-  <source src="./attachments/Project-Vidoe-Demo.mov" type="video/quicktime">
-  Your browser does not support the video tag.
-</video>
+[📹 Download & Watch Demo Video](./attachments/Project-Vidoe-Demo.mov)
 
 ## Table of Contents
 
