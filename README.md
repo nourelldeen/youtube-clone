@@ -8,7 +8,10 @@ A static, pixel-inspired recreation of the YouTube homepage, built from scratch 
 
 ## Demo
 
-![Demo](./demo.gif)
+<video width="100%" controls>
+  <source src="./attachments/Project-Vidoe-Demo.mov" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Table of Contents
 
