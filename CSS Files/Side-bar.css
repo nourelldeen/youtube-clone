@@ -1,0 +1,36 @@
+/* ===== SIDE BAR ===== */
+.side-bar {
+    display: flex;
+    flex-direction: column;
+    width: 72px;
+    position: fixed;
+    background-color: white;
+    top: 55px;
+    bottom: 0px;
+    left: 0px;
+    z-index: 99;
+}
+.side-bar-link {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    height: 74px;
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2px;
+    cursor: pointer;
+}
+.side-bar-link:hover {
+    background-color: rgb(213, 213, 213);
+}
+.side-bar-link img {
+    height: 24px;
+    width: 24px;
+    margin-bottom: 4px;
+}
+.side-bar-link div {
+    font-size: 10px;
+    font-weight: 400;
+    justify-content: center;
+}

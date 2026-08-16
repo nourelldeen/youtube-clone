@@ -1,0 +1,14 @@
+/* ===== RESET & BASE ===== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+    padding-top: 80px;
+    padding-left: 100px;
+    padding-right: 24px;
+    font-weight: 500;
+}
